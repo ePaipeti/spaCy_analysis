@@ -37,12 +37,11 @@
   1. Filename: the name of the file without the txt extension
   2. Title: name of the title
   3. Text: the original text
-  4. Doc: processed text
-  5. Tokens: tokenized text
-  6. Lemmas: lematized text
-  7. POS: part of speech in text
-  8. Named_Entities: named entities in text
-  9. NER_Words: specific named entities
+  4. Tokens: tokenized text
+  5. Lemmas: lematized text
+  6. POS: part of speech in text
+  7. Named_Entities: named entities in text
+  8. NER_Words: specific named entities
       
   
   
