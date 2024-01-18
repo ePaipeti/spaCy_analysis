@@ -1,7 +1,8 @@
 # spaCy_analysis
 
 ## Corpus Analysis with spaCy: Nick Cave's lyrics from the albums Let love in & Murder Ballads
- The corpus contains 20 songs of Nick Cave & The Bad Seeds in txt format 
+ The corpus contains 20 songs of Nick Cave & The Bad Seeds in txt format.
+  In accordance with copyright regulations, I deleted the corpus of the GitHub repository. 
 
  ## Description of corpus:
  20 files in .txt format
